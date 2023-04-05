@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Italo
 - 👀 I’m interested in Desevolver Sistemas
-- 🌱 I’m currently learning as linguagens de programação Nodejs, e Reactjs
+- 🌱 I’m currently working as Nodejs, e Reactjs
 - 💞️ I’m looking to collaborate on Projetos Sistemicos 
 - 📫 How to reach me pelo e-mail: italo_00pinheiro@hotmail.com ou pelo nº +55 71 9 9285-7107.
 
